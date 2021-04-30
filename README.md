@@ -1,2 +1,3 @@
 # matrix_screen
-press f11 for fullscreen
+* linux.py for linux and mac
+* main.py for windows
